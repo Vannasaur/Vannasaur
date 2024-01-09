@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in Southern California
 - ✉️ You can contact me at [vannaluciano@gmail.com](mailto:vannaluciano@gmail.com)
-- 📌 Check out my portfolio at <a href="https:/vannaluciano.com" target="_blank" rel="noreferrer">vannaluciano.com </a>
+- 📌 Check out my portfolio at https://vannaluciano.com/
 - 🧠 I'm currently learning Python
 - 🤝 I'm open to collaborating on Projects
 - ⚡ I love hiking and am always on the lookout for recommendations to new spots!
