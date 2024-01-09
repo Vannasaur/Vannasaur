@@ -2,10 +2,11 @@
 
 ## Full-Stack Developer
 
-I have found both front-end and back-end fascinating to learn, but I have been gravitating more towards front-end development with React! I am continuously practicing the languages I do know while exploring new ones in order to be the best developer I can be.
+🚀 Full-Stack Developer on a perpetual journey of learning and improvement. Passionate about crafting efficient solutions and pushing the boundaries of innovation. Committed to making a positive impact through code. Let's build a better tomorrow together! 💻✨ #CodeForChange #FullStackExplorer 🌐
 
 - 🌍 I'm based in Southern California
 - ✉️ You can contact me at [vannaluciano@gmail.com](mailto:vannaluciano@gmail.com)
+- 📌 Check out my portfolio at <a href="https:/vannaluciano.com" target="_blank" rel="noreferrer">vannaluciano.com </a>
 - 🧠 I'm currently learning Python
 - 🤝 I'm open to collaborating on Projects
 - ⚡ I love hiking and am always on the lookout for recommendations to new spots!
